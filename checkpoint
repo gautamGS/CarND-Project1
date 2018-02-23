@@ -1,0 +1,3 @@
+model_checkpoint_path: "trafficmodel"
+all_model_checkpoint_paths: "lenettraffic"
+all_model_checkpoint_paths: "trafficmodel"
